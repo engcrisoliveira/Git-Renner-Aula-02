@@ -5,3 +5,6 @@ Olá, eu sou a Cris, entrei nesse curso com o objetivo de aprender mais sobre ci
 - Adoro conhecer novas culturas
 - Gosto de experimentar comidas diferentes
 - Sou apaixonada por capoeira
+
+## Programação
+Conheci as primeiras linguagens de programação quando fazia engenharia, Pascal, Java e C++. Quando decidi fazer a transição de carreira para data science comecei a estudar python (em 2019) e R (em 2020).
