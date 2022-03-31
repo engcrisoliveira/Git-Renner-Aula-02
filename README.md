@@ -5,3 +5,6 @@ Olá, eu sou a Cris, entrei nesse curso com o objetivo de aprender mais sobre ci
 - Adoro conhecer novas culturas
 - Gosto de experimentar comidas diferentes
 - Sou apaixonada por capoeira
+
+## Computador
+Lenovo Windows i5 12GB
